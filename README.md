@@ -1,7 +1,7 @@
 # WarGame - Nova8
 
 <div align="center">
-  <img src="./img/imagem_wargame_03.png" alt="WarGame_Checkmarx_One" width="500">
+  <img src="./img/imagem_wargame_01.png" alt="WarGame_Checkmarx_One" width="500">
 </div>
 
 
